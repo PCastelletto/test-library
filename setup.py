@@ -7,7 +7,7 @@ setup(
     version='0.1',
     description='This is a test for a tutorial on how to create a python library',  # noqa
     url='https://github.com/PCastelletto/test-library',
-    #download_url='https://github.com/comparaonline/etl-builder/archive/v1.3.4.tar.gz',  # noqa
+    download_url='https://github.com/PCastelletto/test-library/archive/v0.1.tar.gz',  # noqa
     author='Compara',
     author_email='bi@comparaonline.com',
     license='MIT',
